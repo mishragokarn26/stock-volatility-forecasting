@@ -1,0 +1,30 @@
+# Data access
+yfinance
+
+# Core scientific stack
+pandas
+numpy
+matplotlib
+seaborn
+
+# Econometrics / Time series
+statsmodels
+arch
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Dashboard
+streamlit
+
+# Notebook environment
+jupyter
+
+tensorflow
+
+# (Optional) Bayesian models for stochastic volatility
+# pymc3
+# numpyro
+# cmdstanpy
+
